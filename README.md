@@ -124,7 +124,7 @@ CC BY 4.0
 As shown above, the number of images of train and valid datasets is not large  to use for a training set of our segmentation model.
 <br>
 <br>
-<h4>2.2 HVDROPDB Ridge Dataset Derivation</h4>
+<h4>2.2 HVDROPDB-BV Dataset Derivation</h4>
 The original dataset folder structure <b>HVDROPDB_RetCam_Neo_Segmentation</b> is the following.<br>
 <pre>
 ./HVDROPDB_RetCam_Neo_Segmentation
