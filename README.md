@@ -320,7 +320,7 @@ python ../../../src/TensorFlowFlexUNetInferencer.py ./train_eval_infer.config
 <img src="./projects/TensorFlowFlexUNet/HVDROPDB-BV/asset/mini_test_output.png" width="1024" height="auto"><br>
 <br>
 <hr>
-<b>Enlarged images and masks </b><br>
+<b>Enlarged images and masks for Images of 512x512 pixels</b><br>
 <b>rgb_map (Neo:yellow,   RetCam: cyan)</b><br>
 
 <table>
